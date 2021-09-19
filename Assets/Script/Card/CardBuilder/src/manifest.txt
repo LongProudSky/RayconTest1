@@ -1,0 +1,4 @@
+Manifest-version: 1.0
+Class-Path:
+Created-By: Project R
+Main-Class: App
